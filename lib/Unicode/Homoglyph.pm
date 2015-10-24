@@ -617,4 +617,6 @@ See the C<@Unicode::Homoglyph::Homoglyphs> variable.
 mimic, L<https://github.com/reinderien/mimic/> the project where the list was
 originally stolen from.
 
+L<http://www.irongeek.com/homoglyph-attack-generator.php>
+
 =cut
