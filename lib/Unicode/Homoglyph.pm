@@ -7,7 +7,7 @@ use 5.010001;
 use strict;
 use warnings;
 
-our %Homoglyphs = (
+our @Homoglyphs = (
 
     {
         "\x{0020}" => "", #   # SPACE
@@ -606,7 +606,7 @@ our %Homoglyphs = (
 
  use Unicode::Homoglyph;
 
-See the C<%Unicode::Homoglyph::Homoglyphs> variable.
+See the C<@Unicode::Homoglyph::Homoglyphs> variable.
 
 
 =head1 DESCRIPTION
